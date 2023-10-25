@@ -1,0 +1,15 @@
+/home/elena/source/C#Learn/tast00_Kvadrat_chesla/bin/Debug/net7.0/C#Learn
+/home/elena/source/C#Learn/tast00_Kvadrat_chesla/bin/Debug/net7.0/C#Learn.deps.json
+/home/elena/source/C#Learn/tast00_Kvadrat_chesla/bin/Debug/net7.0/C#Learn.runtimeconfig.json
+/home/elena/source/C#Learn/tast00_Kvadrat_chesla/bin/Debug/net7.0/C#Learn.dll
+/home/elena/source/C#Learn/tast00_Kvadrat_chesla/bin/Debug/net7.0/C#Learn.pdb
+/home/elena/source/C#Learn/tast00_Kvadrat_chesla/obj/Debug/net7.0/C#Learn.csproj.AssemblyReference.cache
+/home/elena/source/C#Learn/tast00_Kvadrat_chesla/obj/Debug/net7.0/C#Learn.GeneratedMSBuildEditorConfig.editorconfig
+/home/elena/source/C#Learn/tast00_Kvadrat_chesla/obj/Debug/net7.0/C#Learn.AssemblyInfoInputs.cache
+/home/elena/source/C#Learn/tast00_Kvadrat_chesla/obj/Debug/net7.0/C#Learn.AssemblyInfo.cs
+/home/elena/source/C#Learn/tast00_Kvadrat_chesla/obj/Debug/net7.0/C#Learn.csproj.CoreCompileInputs.cache
+/home/elena/source/C#Learn/tast00_Kvadrat_chesla/obj/Debug/net7.0/C#Learn.dll
+/home/elena/source/C#Learn/tast00_Kvadrat_chesla/obj/Debug/net7.0/refint/C#Learn.dll
+/home/elena/source/C#Learn/tast00_Kvadrat_chesla/obj/Debug/net7.0/C#Learn.pdb
+/home/elena/source/C#Learn/tast00_Kvadrat_chesla/obj/Debug/net7.0/C#Learn.genruntimeconfig.cache
+/home/elena/source/C#Learn/tast00_Kvadrat_chesla/obj/Debug/net7.0/ref/C#Learn.dll

@@ -1,0 +1,15 @@
+/home/elena/source/C#Learn/task02_biggest_number/obj/Debug/net7.0/task02_biggest_number.csproj.AssemblyReference.cache
+/home/elena/source/C#Learn/task02_biggest_number/obj/Debug/net7.0/task02_biggest_number.GeneratedMSBuildEditorConfig.editorconfig
+/home/elena/source/C#Learn/task02_biggest_number/obj/Debug/net7.0/task02_biggest_number.AssemblyInfoInputs.cache
+/home/elena/source/C#Learn/task02_biggest_number/obj/Debug/net7.0/task02_biggest_number.AssemblyInfo.cs
+/home/elena/source/C#Learn/task02_biggest_number/obj/Debug/net7.0/task02_biggest_number.csproj.CoreCompileInputs.cache
+/home/elena/source/C#Learn/task02_biggest_number/bin/Debug/net7.0/task02_biggest_number
+/home/elena/source/C#Learn/task02_biggest_number/bin/Debug/net7.0/task02_biggest_number.deps.json
+/home/elena/source/C#Learn/task02_biggest_number/bin/Debug/net7.0/task02_biggest_number.runtimeconfig.json
+/home/elena/source/C#Learn/task02_biggest_number/bin/Debug/net7.0/task02_biggest_number.dll
+/home/elena/source/C#Learn/task02_biggest_number/bin/Debug/net7.0/task02_biggest_number.pdb
+/home/elena/source/C#Learn/task02_biggest_number/obj/Debug/net7.0/task02_biggest_number.dll
+/home/elena/source/C#Learn/task02_biggest_number/obj/Debug/net7.0/refint/task02_biggest_number.dll
+/home/elena/source/C#Learn/task02_biggest_number/obj/Debug/net7.0/task02_biggest_number.pdb
+/home/elena/source/C#Learn/task02_biggest_number/obj/Debug/net7.0/task02_biggest_number.genruntimeconfig.cache
+/home/elena/source/C#Learn/task02_biggest_number/obj/Debug/net7.0/ref/task02_biggest_number.dll

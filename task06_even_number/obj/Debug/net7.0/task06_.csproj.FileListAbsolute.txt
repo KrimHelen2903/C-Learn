@@ -1,0 +1,15 @@
+/home/elena/source/C#Learn/task06_even_number/bin/Debug/net7.0/task06_
+/home/elena/source/C#Learn/task06_even_number/bin/Debug/net7.0/task06_.deps.json
+/home/elena/source/C#Learn/task06_even_number/bin/Debug/net7.0/task06_.runtimeconfig.json
+/home/elena/source/C#Learn/task06_even_number/bin/Debug/net7.0/task06_.dll
+/home/elena/source/C#Learn/task06_even_number/bin/Debug/net7.0/task06_.pdb
+/home/elena/source/C#Learn/task06_even_number/obj/Debug/net7.0/task06_.csproj.AssemblyReference.cache
+/home/elena/source/C#Learn/task06_even_number/obj/Debug/net7.0/task06_.GeneratedMSBuildEditorConfig.editorconfig
+/home/elena/source/C#Learn/task06_even_number/obj/Debug/net7.0/task06_.AssemblyInfoInputs.cache
+/home/elena/source/C#Learn/task06_even_number/obj/Debug/net7.0/task06_.AssemblyInfo.cs
+/home/elena/source/C#Learn/task06_even_number/obj/Debug/net7.0/task06_.csproj.CoreCompileInputs.cache
+/home/elena/source/C#Learn/task06_even_number/obj/Debug/net7.0/task06_.dll
+/home/elena/source/C#Learn/task06_even_number/obj/Debug/net7.0/refint/task06_.dll
+/home/elena/source/C#Learn/task06_even_number/obj/Debug/net7.0/task06_.pdb
+/home/elena/source/C#Learn/task06_even_number/obj/Debug/net7.0/task06_.genruntimeconfig.cache
+/home/elena/source/C#Learn/task06_even_number/obj/Debug/net7.0/ref/task06_.dll

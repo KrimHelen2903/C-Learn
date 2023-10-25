@@ -1,0 +1,15 @@
+/home/elena/source/C#Learn/task08_vse_chetnye_chisla/obj/Debug/net7.0/task08_vse_chetnye_chisla.csproj.AssemblyReference.cache
+/home/elena/source/C#Learn/task08_vse_chetnye_chisla/obj/Debug/net7.0/task08_vse_chetnye_chisla.GeneratedMSBuildEditorConfig.editorconfig
+/home/elena/source/C#Learn/task08_vse_chetnye_chisla/obj/Debug/net7.0/task08_vse_chetnye_chisla.AssemblyInfoInputs.cache
+/home/elena/source/C#Learn/task08_vse_chetnye_chisla/obj/Debug/net7.0/task08_vse_chetnye_chisla.AssemblyInfo.cs
+/home/elena/source/C#Learn/task08_vse_chetnye_chisla/obj/Debug/net7.0/task08_vse_chetnye_chisla.csproj.CoreCompileInputs.cache
+/home/elena/source/C#Learn/task08_vse_chetnye_chisla/bin/Debug/net7.0/task08_vse_chetnye_chisla
+/home/elena/source/C#Learn/task08_vse_chetnye_chisla/bin/Debug/net7.0/task08_vse_chetnye_chisla.deps.json
+/home/elena/source/C#Learn/task08_vse_chetnye_chisla/bin/Debug/net7.0/task08_vse_chetnye_chisla.runtimeconfig.json
+/home/elena/source/C#Learn/task08_vse_chetnye_chisla/bin/Debug/net7.0/task08_vse_chetnye_chisla.dll
+/home/elena/source/C#Learn/task08_vse_chetnye_chisla/bin/Debug/net7.0/task08_vse_chetnye_chisla.pdb
+/home/elena/source/C#Learn/task08_vse_chetnye_chisla/obj/Debug/net7.0/task08_vse_chetnye_chisla.dll
+/home/elena/source/C#Learn/task08_vse_chetnye_chisla/obj/Debug/net7.0/refint/task08_vse_chetnye_chisla.dll
+/home/elena/source/C#Learn/task08_vse_chetnye_chisla/obj/Debug/net7.0/task08_vse_chetnye_chisla.pdb
+/home/elena/source/C#Learn/task08_vse_chetnye_chisla/obj/Debug/net7.0/task08_vse_chetnye_chisla.genruntimeconfig.cache
+/home/elena/source/C#Learn/task08_vse_chetnye_chisla/obj/Debug/net7.0/ref/task08_vse_chetnye_chisla.dll

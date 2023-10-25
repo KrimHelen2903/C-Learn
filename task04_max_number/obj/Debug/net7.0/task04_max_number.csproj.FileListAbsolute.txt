@@ -1,0 +1,15 @@
+/home/elena/source/C#Learn/task04_max_number/obj/Debug/net7.0/task04_max_number.csproj.AssemblyReference.cache
+/home/elena/source/C#Learn/task04_max_number/obj/Debug/net7.0/task04_max_number.GeneratedMSBuildEditorConfig.editorconfig
+/home/elena/source/C#Learn/task04_max_number/obj/Debug/net7.0/task04_max_number.AssemblyInfoInputs.cache
+/home/elena/source/C#Learn/task04_max_number/obj/Debug/net7.0/task04_max_number.AssemblyInfo.cs
+/home/elena/source/C#Learn/task04_max_number/obj/Debug/net7.0/task04_max_number.csproj.CoreCompileInputs.cache
+/home/elena/source/C#Learn/task04_max_number/bin/Debug/net7.0/task04_max_number
+/home/elena/source/C#Learn/task04_max_number/bin/Debug/net7.0/task04_max_number.deps.json
+/home/elena/source/C#Learn/task04_max_number/bin/Debug/net7.0/task04_max_number.runtimeconfig.json
+/home/elena/source/C#Learn/task04_max_number/bin/Debug/net7.0/task04_max_number.dll
+/home/elena/source/C#Learn/task04_max_number/bin/Debug/net7.0/task04_max_number.pdb
+/home/elena/source/C#Learn/task04_max_number/obj/Debug/net7.0/task04_max_number.dll
+/home/elena/source/C#Learn/task04_max_number/obj/Debug/net7.0/refint/task04_max_number.dll
+/home/elena/source/C#Learn/task04_max_number/obj/Debug/net7.0/task04_max_number.pdb
+/home/elena/source/C#Learn/task04_max_number/obj/Debug/net7.0/task04_max_number.genruntimeconfig.cache
+/home/elena/source/C#Learn/task04_max_number/obj/Debug/net7.0/ref/task04_max_number.dll
