@@ -1,0 +1,15 @@
+/home/elena/source/C#Learn/task11/obj/Debug/net7.0/task11.csproj.AssemblyReference.cache
+/home/elena/source/C#Learn/task11/obj/Debug/net7.0/task11.GeneratedMSBuildEditorConfig.editorconfig
+/home/elena/source/C#Learn/task11/obj/Debug/net7.0/task11.AssemblyInfoInputs.cache
+/home/elena/source/C#Learn/task11/obj/Debug/net7.0/task11.AssemblyInfo.cs
+/home/elena/source/C#Learn/task11/obj/Debug/net7.0/task11.csproj.CoreCompileInputs.cache
+/home/elena/source/C#Learn/task11/bin/Debug/net7.0/task11
+/home/elena/source/C#Learn/task11/bin/Debug/net7.0/task11.deps.json
+/home/elena/source/C#Learn/task11/bin/Debug/net7.0/task11.runtimeconfig.json
+/home/elena/source/C#Learn/task11/bin/Debug/net7.0/task11.dll
+/home/elena/source/C#Learn/task11/bin/Debug/net7.0/task11.pdb
+/home/elena/source/C#Learn/task11/obj/Debug/net7.0/task11.dll
+/home/elena/source/C#Learn/task11/obj/Debug/net7.0/refint/task11.dll
+/home/elena/source/C#Learn/task11/obj/Debug/net7.0/task11.pdb
+/home/elena/source/C#Learn/task11/obj/Debug/net7.0/task11.genruntimeconfig.cache
+/home/elena/source/C#Learn/task11/obj/Debug/net7.0/ref/task11.dll

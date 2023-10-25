@@ -1,0 +1,15 @@
+/home/elena/source/C#Learn/task009/bin/Debug/net7.0/task009
+/home/elena/source/C#Learn/task009/bin/Debug/net7.0/task009.deps.json
+/home/elena/source/C#Learn/task009/bin/Debug/net7.0/task009.runtimeconfig.json
+/home/elena/source/C#Learn/task009/bin/Debug/net7.0/task009.dll
+/home/elena/source/C#Learn/task009/bin/Debug/net7.0/task009.pdb
+/home/elena/source/C#Learn/task009/obj/Debug/net7.0/task009.csproj.AssemblyReference.cache
+/home/elena/source/C#Learn/task009/obj/Debug/net7.0/task009.GeneratedMSBuildEditorConfig.editorconfig
+/home/elena/source/C#Learn/task009/obj/Debug/net7.0/task009.AssemblyInfoInputs.cache
+/home/elena/source/C#Learn/task009/obj/Debug/net7.0/task009.AssemblyInfo.cs
+/home/elena/source/C#Learn/task009/obj/Debug/net7.0/task009.csproj.CoreCompileInputs.cache
+/home/elena/source/C#Learn/task009/obj/Debug/net7.0/task009.dll
+/home/elena/source/C#Learn/task009/obj/Debug/net7.0/refint/task009.dll
+/home/elena/source/C#Learn/task009/obj/Debug/net7.0/task009.pdb
+/home/elena/source/C#Learn/task009/obj/Debug/net7.0/task009.genruntimeconfig.cache
+/home/elena/source/C#Learn/task009/obj/Debug/net7.0/ref/task009.dll
