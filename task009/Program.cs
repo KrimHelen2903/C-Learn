@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿/*
+Программа, которая выводит случайное число из отрезка [10, 3]
+78 -> 8
+12 -> 2
+85 -> 8
+*/
+
+
+
