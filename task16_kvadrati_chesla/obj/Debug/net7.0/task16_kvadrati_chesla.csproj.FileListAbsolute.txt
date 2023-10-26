@@ -1,0 +1,15 @@
+/home/elena/source/C#Learn/task16_kvadrati_chesla/bin/Debug/net7.0/task16_kvadrati_chesla
+/home/elena/source/C#Learn/task16_kvadrati_chesla/bin/Debug/net7.0/task16_kvadrati_chesla.deps.json
+/home/elena/source/C#Learn/task16_kvadrati_chesla/bin/Debug/net7.0/task16_kvadrati_chesla.runtimeconfig.json
+/home/elena/source/C#Learn/task16_kvadrati_chesla/bin/Debug/net7.0/task16_kvadrati_chesla.dll
+/home/elena/source/C#Learn/task16_kvadrati_chesla/bin/Debug/net7.0/task16_kvadrati_chesla.pdb
+/home/elena/source/C#Learn/task16_kvadrati_chesla/obj/Debug/net7.0/task16_kvadrati_chesla.csproj.AssemblyReference.cache
+/home/elena/source/C#Learn/task16_kvadrati_chesla/obj/Debug/net7.0/task16_kvadrati_chesla.GeneratedMSBuildEditorConfig.editorconfig
+/home/elena/source/C#Learn/task16_kvadrati_chesla/obj/Debug/net7.0/task16_kvadrati_chesla.AssemblyInfoInputs.cache
+/home/elena/source/C#Learn/task16_kvadrati_chesla/obj/Debug/net7.0/task16_kvadrati_chesla.AssemblyInfo.cs
+/home/elena/source/C#Learn/task16_kvadrati_chesla/obj/Debug/net7.0/task16_kvadrati_chesla.csproj.CoreCompileInputs.cache
+/home/elena/source/C#Learn/task16_kvadrati_chesla/obj/Debug/net7.0/task16_kvadrati_chesla.dll
+/home/elena/source/C#Learn/task16_kvadrati_chesla/obj/Debug/net7.0/refint/task16_kvadrati_chesla.dll
+/home/elena/source/C#Learn/task16_kvadrati_chesla/obj/Debug/net7.0/task16_kvadrati_chesla.pdb
+/home/elena/source/C#Learn/task16_kvadrati_chesla/obj/Debug/net7.0/task16_kvadrati_chesla.genruntimeconfig.cache
+/home/elena/source/C#Learn/task16_kvadrati_chesla/obj/Debug/net7.0/ref/task16_kvadrati_chesla.dll

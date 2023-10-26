@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "task11/1.0.0": {
+      "task16_kvadrati_chesla/1.0.0": {
         "runtime": {
-          "task11.dll": {}
+          "task16_kvadrati_chesla.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "task11/1.0.0": {
+    "task16_kvadrati_chesla/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
