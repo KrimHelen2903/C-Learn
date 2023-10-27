@@ -1,0 +1,15 @@
+/home/elena/source/C#Learn/new_example_prodoljenie/bin/Debug/net7.0/new_example_prodoljenie
+/home/elena/source/C#Learn/new_example_prodoljenie/bin/Debug/net7.0/new_example_prodoljenie.deps.json
+/home/elena/source/C#Learn/new_example_prodoljenie/bin/Debug/net7.0/new_example_prodoljenie.runtimeconfig.json
+/home/elena/source/C#Learn/new_example_prodoljenie/bin/Debug/net7.0/new_example_prodoljenie.dll
+/home/elena/source/C#Learn/new_example_prodoljenie/bin/Debug/net7.0/new_example_prodoljenie.pdb
+/home/elena/source/C#Learn/new_example_prodoljenie/obj/Debug/net7.0/new_example_prodoljenie.csproj.AssemblyReference.cache
+/home/elena/source/C#Learn/new_example_prodoljenie/obj/Debug/net7.0/new_example_prodoljenie.GeneratedMSBuildEditorConfig.editorconfig
+/home/elena/source/C#Learn/new_example_prodoljenie/obj/Debug/net7.0/new_example_prodoljenie.AssemblyInfoInputs.cache
+/home/elena/source/C#Learn/new_example_prodoljenie/obj/Debug/net7.0/new_example_prodoljenie.AssemblyInfo.cs
+/home/elena/source/C#Learn/new_example_prodoljenie/obj/Debug/net7.0/new_example_prodoljenie.csproj.CoreCompileInputs.cache
+/home/elena/source/C#Learn/new_example_prodoljenie/obj/Debug/net7.0/new_example_prodoljenie.dll
+/home/elena/source/C#Learn/new_example_prodoljenie/obj/Debug/net7.0/refint/new_example_prodoljenie.dll
+/home/elena/source/C#Learn/new_example_prodoljenie/obj/Debug/net7.0/new_example_prodoljenie.pdb
+/home/elena/source/C#Learn/new_example_prodoljenie/obj/Debug/net7.0/new_example_prodoljenie.genruntimeconfig.cache
+/home/elena/source/C#Learn/new_example_prodoljenie/obj/Debug/net7.0/ref/new_example_prodoljenie.dll
