@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/elena/source/C#Learn/task009/task009.csproj": {}
+    "/home/elena/source/C#Learn/task009_RandomNum/task009.csproj": {}
   },
   "projects": {
-    "/home/elena/source/C#Learn/task009/task009.csproj": {
+    "/home/elena/source/C#Learn/task009_RandomNum/task009.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/elena/source/C#Learn/task009/task009.csproj",
+        "projectUniqueName": "/home/elena/source/C#Learn/task009_RandomNum/task009.csproj",
         "projectName": "task009",
-        "projectPath": "/home/elena/source/C#Learn/task009/task009.csproj",
+        "projectPath": "/home/elena/source/C#Learn/task009_RandomNum/task009.csproj",
         "packagesPath": "/home/elena/.nuget/packages/",
-        "outputPath": "/home/elena/source/C#Learn/task009/obj/",
+        "outputPath": "/home/elena/source/C#Learn/task009_RandomNum/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/elena/.nuget/NuGet/NuGet.Config"

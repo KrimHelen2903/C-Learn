@@ -1,0 +1,15 @@
+/home/elena/source/C#Learn/task12_kratnost/obj/Debug/net7.0/task12_kratnost.csproj.AssemblyReference.cache
+/home/elena/source/C#Learn/task12_kratnost/obj/Debug/net7.0/task12_kratnost.GeneratedMSBuildEditorConfig.editorconfig
+/home/elena/source/C#Learn/task12_kratnost/obj/Debug/net7.0/task12_kratnost.AssemblyInfoInputs.cache
+/home/elena/source/C#Learn/task12_kratnost/obj/Debug/net7.0/task12_kratnost.AssemblyInfo.cs
+/home/elena/source/C#Learn/task12_kratnost/obj/Debug/net7.0/task12_kratnost.csproj.CoreCompileInputs.cache
+/home/elena/source/C#Learn/task12_kratnost/bin/Debug/net7.0/task12_kratnost
+/home/elena/source/C#Learn/task12_kratnost/bin/Debug/net7.0/task12_kratnost.deps.json
+/home/elena/source/C#Learn/task12_kratnost/bin/Debug/net7.0/task12_kratnost.runtimeconfig.json
+/home/elena/source/C#Learn/task12_kratnost/bin/Debug/net7.0/task12_kratnost.dll
+/home/elena/source/C#Learn/task12_kratnost/bin/Debug/net7.0/task12_kratnost.pdb
+/home/elena/source/C#Learn/task12_kratnost/obj/Debug/net7.0/task12_kratnost.dll
+/home/elena/source/C#Learn/task12_kratnost/obj/Debug/net7.0/refint/task12_kratnost.dll
+/home/elena/source/C#Learn/task12_kratnost/obj/Debug/net7.0/task12_kratnost.pdb
+/home/elena/source/C#Learn/task12_kratnost/obj/Debug/net7.0/task12_kratnost.genruntimeconfig.cache
+/home/elena/source/C#Learn/task12_kratnost/obj/Debug/net7.0/ref/task12_kratnost.dll

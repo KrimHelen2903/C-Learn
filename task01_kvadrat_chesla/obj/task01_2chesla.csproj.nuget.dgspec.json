@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/elena/source/C#Learn/task00_kvadrat_chesla/task01_2chesla.csproj": {}
+    "/home/elena/source/C#Learn/task01_kvadrat_chesla/task01_2chesla.csproj": {}
   },
   "projects": {
-    "/home/elena/source/C#Learn/task00_kvadrat_chesla/task01_2chesla.csproj": {
+    "/home/elena/source/C#Learn/task01_kvadrat_chesla/task01_2chesla.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/elena/source/C#Learn/task00_kvadrat_chesla/task01_2chesla.csproj",
+        "projectUniqueName": "/home/elena/source/C#Learn/task01_kvadrat_chesla/task01_2chesla.csproj",
         "projectName": "task01_2chesla",
-        "projectPath": "/home/elena/source/C#Learn/task00_kvadrat_chesla/task01_2chesla.csproj",
+        "projectPath": "/home/elena/source/C#Learn/task01_kvadrat_chesla/task01_2chesla.csproj",
         "packagesPath": "/home/elena/.nuget/packages/",
-        "outputPath": "/home/elena/source/C#Learn/task00_kvadrat_chesla/obj/",
+        "outputPath": "/home/elena/source/C#Learn/task01_kvadrat_chesla/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/elena/.nuget/NuGet/NuGet.Config"

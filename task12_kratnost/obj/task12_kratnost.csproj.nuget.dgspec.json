@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/elena/source/C#Learn/task11_sum_first_last/task11.csproj": {}
+    "/home/elena/source/C#Learn/task12_kratnost/task12_kratnost.csproj": {}
   },
   "projects": {
-    "/home/elena/source/C#Learn/task11_sum_first_last/task11.csproj": {
+    "/home/elena/source/C#Learn/task12_kratnost/task12_kratnost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/elena/source/C#Learn/task11_sum_first_last/task11.csproj",
-        "projectName": "task11",
-        "projectPath": "/home/elena/source/C#Learn/task11_sum_first_last/task11.csproj",
+        "projectUniqueName": "/home/elena/source/C#Learn/task12_kratnost/task12_kratnost.csproj",
+        "projectName": "task12_kratnost",
+        "projectPath": "/home/elena/source/C#Learn/task12_kratnost/task12_kratnost.csproj",
         "packagesPath": "/home/elena/.nuget/packages/",
-        "outputPath": "/home/elena/source/C#Learn/task11_sum_first_last/obj/",
+        "outputPath": "/home/elena/source/C#Learn/task12_kratnost/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/elena/.nuget/NuGet/NuGet.Config"

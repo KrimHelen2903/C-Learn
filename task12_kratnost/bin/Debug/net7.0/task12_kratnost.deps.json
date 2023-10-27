@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "task12_kratnost/1.0.0": {
+        "runtime": {
+          "task12_kratnost.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task12_kratnost/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

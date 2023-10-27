@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AVoVmkO4Dk+97d0gxRfAI4PUJ12EeXXKhEheTxof9QuMunyNFNZei/H0it0JceDbhauMAjQjVldb7k9/jUU+SQ==",
+  "dgSpecHash": "Ub4Kz5/CbGZVcMBMo0dYgcvoafEy+ph1Jde8piCaQYV7GiHOUWvOVKBjHFor2OoDEGOnEotOAsIk/9Viihlmvg==",
   "success": true,
-  "projectFilePath": "/home/elena/source/C#Learn/task11/task11.csproj",
+  "projectFilePath": "/home/elena/source/C#Learn/task11_sum_first_last/task11.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/elena/source/C#Learn/task11/task11.csproj",
+      "projectUniqueName": "/home/elena/source/C#Learn/task11_sum_first_last/task11.csproj",
       "projectName": "task11",
-      "projectPath": "/home/elena/source/C#Learn/task11/task11.csproj",
+      "projectPath": "/home/elena/source/C#Learn/task11_sum_first_last/task11.csproj",
       "packagesPath": "/home/elena/.nuget/packages/",
-      "outputPath": "/home/elena/source/C#Learn/task11/obj/",
+      "outputPath": "/home/elena/source/C#Learn/task11_sum_first_last/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/elena/.nuget/NuGet/NuGet.Config"

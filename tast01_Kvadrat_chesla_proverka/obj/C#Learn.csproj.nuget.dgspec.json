@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/elena/source/C#Learn/tast00_Kvadrat_chesla/C#Learn.csproj": {}
+    "/home/elena/source/C#Learn/tast01_Kvadrat_chesla_proverka/C#Learn.csproj": {}
   },
   "projects": {
-    "/home/elena/source/C#Learn/tast00_Kvadrat_chesla/C#Learn.csproj": {
+    "/home/elena/source/C#Learn/tast01_Kvadrat_chesla_proverka/C#Learn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/elena/source/C#Learn/tast00_Kvadrat_chesla/C#Learn.csproj",
+        "projectUniqueName": "/home/elena/source/C#Learn/tast01_Kvadrat_chesla_proverka/C#Learn.csproj",
         "projectName": "C#Learn",
-        "projectPath": "/home/elena/source/C#Learn/tast00_Kvadrat_chesla/C#Learn.csproj",
+        "projectPath": "/home/elena/source/C#Learn/tast01_Kvadrat_chesla_proverka/C#Learn.csproj",
         "packagesPath": "/home/elena/.nuget/packages/",
-        "outputPath": "/home/elena/source/C#Learn/tast00_Kvadrat_chesla/obj/",
+        "outputPath": "/home/elena/source/C#Learn/tast01_Kvadrat_chesla_proverka/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/elena/.nuget/NuGet/NuGet.Config"

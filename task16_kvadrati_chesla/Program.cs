@@ -8,24 +8,16 @@
 */
 
 System.Console.WriteLine("Введите первое число: ");
-int num = Convert.ToInt32(Console.ReadLine());
+int number = Convert.ToInt32(Console.ReadLine());
+
 System.Console.WriteLine("Введите второе число: ");
-int num2 = Convert.ToInt32(Console.ReadLine());
+int square = Convert.ToInt32(Console.ReadLine());
 
-
-
-if (num2 == num * num)
+if (square == number*number || number == square*square)
 {
-    System.Console.WriteLine($"Число {num2} квадрат числа {num}");
+    System.Console.WriteLine("Числа являются квадратом");
 }
-if (num == num2 * num2)
-{
-    System.Console.WriteLine($"Число {num}  квадрат числа {num2}");
-}
-else if (num2>=num2)
+else
 {
     System.Console.WriteLine("Числа не являются квадратом");
 }
-
-
-

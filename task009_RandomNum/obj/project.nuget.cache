@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RIDQhmjX0F241G8dVSYeaRP8KTL1xBfvP7T3iijLj3sX0CLJjjFdkl4mnGPrDxw9a6YzMKYw13ItQ/Voj5hQLQ==",
+  "dgSpecHash": "0NXKjoLsbNQmXr13Hy3B+S/7j5AtG4qPorg1iWk0UiIvj5aPy0RMH0+9nUli78CqddvwqzxazenBpNDM3ZhQRg==",
   "success": true,
-  "projectFilePath": "/home/elena/source/C#Learn/task009/task009.csproj",
+  "projectFilePath": "/home/elena/source/C#Learn/task009_RandomNum/task009.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
