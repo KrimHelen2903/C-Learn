@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/elena/source/C#Learn/new_example_prodoljenie/new_example_prodoljenie.csproj": {}
+    "/home/lena/source/C-Learn/new_example_prodoljenie/new_example_prodoljenie.csproj": {}
   },
   "projects": {
-    "/home/elena/source/C#Learn/new_example_prodoljenie/new_example_prodoljenie.csproj": {
+    "/home/lena/source/C-Learn/new_example_prodoljenie/new_example_prodoljenie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/elena/source/C#Learn/new_example_prodoljenie/new_example_prodoljenie.csproj",
+        "projectUniqueName": "/home/lena/source/C-Learn/new_example_prodoljenie/new_example_prodoljenie.csproj",
         "projectName": "new_example_prodoljenie",
-        "projectPath": "/home/elena/source/C#Learn/new_example_prodoljenie/new_example_prodoljenie.csproj",
-        "packagesPath": "/home/elena/.nuget/packages/",
-        "outputPath": "/home/elena/source/C#Learn/new_example_prodoljenie/obj/",
+        "projectPath": "/home/lena/source/C-Learn/new_example_prodoljenie/new_example_prodoljenie.csproj",
+        "packagesPath": "/home/lena/.nuget/packages/",
+        "outputPath": "/home/lena/source/C-Learn/new_example_prodoljenie/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/elena/.nuget/NuGet/NuGet.Config"
+          "/home/lena/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.112/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
         }
       }
     }
