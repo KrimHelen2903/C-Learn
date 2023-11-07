@@ -1,0 +1,15 @@
+/home/lena/source/C-Learn/task15_weekend/bin/Debug/net7.0/task15_weekend
+/home/lena/source/C-Learn/task15_weekend/bin/Debug/net7.0/task15_weekend.deps.json
+/home/lena/source/C-Learn/task15_weekend/bin/Debug/net7.0/task15_weekend.runtimeconfig.json
+/home/lena/source/C-Learn/task15_weekend/bin/Debug/net7.0/task15_weekend.dll
+/home/lena/source/C-Learn/task15_weekend/bin/Debug/net7.0/task15_weekend.pdb
+/home/lena/source/C-Learn/task15_weekend/obj/Debug/net7.0/task15_weekend.csproj.AssemblyReference.cache
+/home/lena/source/C-Learn/task15_weekend/obj/Debug/net7.0/task15_weekend.GeneratedMSBuildEditorConfig.editorconfig
+/home/lena/source/C-Learn/task15_weekend/obj/Debug/net7.0/task15_weekend.AssemblyInfoInputs.cache
+/home/lena/source/C-Learn/task15_weekend/obj/Debug/net7.0/task15_weekend.AssemblyInfo.cs
+/home/lena/source/C-Learn/task15_weekend/obj/Debug/net7.0/task15_weekend.csproj.CoreCompileInputs.cache
+/home/lena/source/C-Learn/task15_weekend/obj/Debug/net7.0/task15_weekend.dll
+/home/lena/source/C-Learn/task15_weekend/obj/Debug/net7.0/refint/task15_weekend.dll
+/home/lena/source/C-Learn/task15_weekend/obj/Debug/net7.0/task15_weekend.pdb
+/home/lena/source/C-Learn/task15_weekend/obj/Debug/net7.0/task15_weekend.genruntimeconfig.cache
+/home/lena/source/C-Learn/task15_weekend/obj/Debug/net7.0/ref/task15_weekend.dll
