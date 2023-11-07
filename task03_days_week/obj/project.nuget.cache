@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NrVBU8+GLK+4o+38yLXTJWE2FP1xa6xZz8TodvzIeNuoR32KAlYKN6669bmQ6GokWpJPhU64reLiWIJtcukftA==",
+  "dgSpecHash": "9qkCLxOcRNNkF/cz5nUHKruNSOSJKckbGOEgwAl57VAUCfTu22LC81ew+B+d8i6R8DsZkAPytT7k2ynsid22HQ==",
   "success": true,
-  "projectFilePath": "/home/elena/source/C#Learn/task03_days_week/task02.csproj",
+  "projectFilePath": "/home/lena/source/C-Learn/task03_days_week/task02.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

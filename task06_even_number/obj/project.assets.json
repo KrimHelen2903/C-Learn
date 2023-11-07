@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/elena/.nuget/packages/": {}
+    "/home/lena/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/elena/source/C#Learn/task06_even_number/task06_.csproj",
+      "projectUniqueName": "/home/lena/source/C-Learn/task06_even_number/task06_.csproj",
       "projectName": "task06_",
-      "projectPath": "/home/elena/source/C#Learn/task06_even_number/task06_.csproj",
-      "packagesPath": "/home/elena/.nuget/packages/",
-      "outputPath": "/home/elena/source/C#Learn/task06_even_number/obj/",
+      "projectPath": "/home/lena/source/C-Learn/task06_even_number/task06_.csproj",
+      "packagesPath": "/home/lena/.nuget/packages/",
+      "outputPath": "/home/lena/source/C-Learn/task06_even_number/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/elena/.nuget/NuGet/NuGet.Config"
+        "/home/lena/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.112/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
       }
     }
   }
