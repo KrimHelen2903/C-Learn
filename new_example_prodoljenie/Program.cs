@@ -226,7 +226,7 @@
 
 //for (int i = 2; i <= 10; i++)
 //{
-//    for (int j = 2; j <= 10; j++)
+//    for (int j = 2; j <= 10; j++)        
 //    {
 //        Console.WriteLine($"{i} x {j} = {i*j}");
 //    }
@@ -235,6 +235,11 @@
 
 // ФУНКЦИИ В ПРИЛОЖЕНИИ
 /*
+//=====Работа с текстом
+// Дан текст. В тексте нужно все пробелы заменить чёрточками,
+// маленькие буквы “к” заменить большими “К”,
+// а большие “С” маленькими “с”.
+// Ясна ли задача? 
 Маленькие буквы "к", заменить большими "К", а большие "с" заменить маленькими "с".
 */
 
@@ -250,12 +255,12 @@ string text = "- Я думаю, - сказал князь, улыбаясь, - �
 
 string Replace(string text, char oldValue, char newValue)
 {
-    string result = String.Empty;
+    string result = String.Empty;  //String.Empty - инициализауия пустой строки
 
     int lenght = text.Lenght;
     for (int i = 0; i < length; i++)
     {
-        if(text[1]== oldValue) result + $"{newValue}";
+        if (text[i] == oldValue) result = result + $"{newValue}";
         else result = result + $"{str[i]}";
     }
 
@@ -263,4 +268,7 @@ string Replace(string text, char oldValue, char newValue)
 }
 string newText = Replace(text, ' ', '|');
 Console.WriteLine(newText);
-newText = Replace(text, ' ', '|');
+
+
+
+
