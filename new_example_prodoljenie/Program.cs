@@ -253,22 +253,48 @@ string text = "- Я думаю, - сказал князь, улыбаясь, - �
 //              012345
 // s[3]  // r
 
-string Replace(string text, char oldValue, char newValue)
+//string Replace(string text, char oldValue, char newValue)
+//{
+//    string result = String.Empty;  //String.Empty - инициализауия пустой строки
+//
+//    int lenght = text.Lenght;
+//    for (int i = 0; i < length; i++)
+//    {
+//        if (text[i] == oldValue) result = result + $"{newValue}";
+//        else result = result + $"{str[i]}";
+//    }
+//
+//    return result;
+//}
+//string newText = Replace(text, ' ', '|');
+//Console.WriteLine(newText);
+
+
+//----------------------------------------------------------------------------------
+
+//using System;
+//Console.Clear();
+// взять число найти его квадрат и вычеслить корень квадратный из получившегося числа.
+//int usera = 4;
+//
+//double Num(int a)//функция
+//{
+//    double result = Math.Pow(a, 2);
+//    System.Console.WriteLine(result);
+//    return result;
+//}
+/*
+void Num1(int a)//функция
 {
-    string result = String.Empty;  //String.Empty - инициализауия пустой строки
-
-    int lenght = text.Lenght;
-    for (int i = 0; i < length; i++)
-    {
-        if (text[i] == oldValue) result = result + $"{newValue}";
-        else result = result + $"{str[i]}";
-    }
-
-    return result;
+    double result = Math.Pow(a, 2);             // возведение в квадрат.
+    System.Console.WriteLine(result);
 }
-string newText = Replace(text, ' ', '|');
-Console.WriteLine(newText);
 
+double userresult =  Num(usera);
+double root = Math.Sqrt(userresult);
+System.Console.WriteLine(root);
+System.Console.WriteLine(userresult);
 
+Num1(usera);*/
 
-
+//double userresult =  Num(usera);
