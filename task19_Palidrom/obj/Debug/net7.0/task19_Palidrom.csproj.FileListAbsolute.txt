@@ -1,0 +1,15 @@
+/home/lena/source/C-Learn/task19_Palidrom/bin/Debug/net7.0/task19_Palidrom
+/home/lena/source/C-Learn/task19_Palidrom/bin/Debug/net7.0/task19_Palidrom.deps.json
+/home/lena/source/C-Learn/task19_Palidrom/bin/Debug/net7.0/task19_Palidrom.runtimeconfig.json
+/home/lena/source/C-Learn/task19_Palidrom/bin/Debug/net7.0/task19_Palidrom.dll
+/home/lena/source/C-Learn/task19_Palidrom/bin/Debug/net7.0/task19_Palidrom.pdb
+/home/lena/source/C-Learn/task19_Palidrom/obj/Debug/net7.0/task19_Palidrom.csproj.AssemblyReference.cache
+/home/lena/source/C-Learn/task19_Palidrom/obj/Debug/net7.0/task19_Palidrom.GeneratedMSBuildEditorConfig.editorconfig
+/home/lena/source/C-Learn/task19_Palidrom/obj/Debug/net7.0/task19_Palidrom.AssemblyInfoInputs.cache
+/home/lena/source/C-Learn/task19_Palidrom/obj/Debug/net7.0/task19_Palidrom.AssemblyInfo.cs
+/home/lena/source/C-Learn/task19_Palidrom/obj/Debug/net7.0/task19_Palidrom.csproj.CoreCompileInputs.cache
+/home/lena/source/C-Learn/task19_Palidrom/obj/Debug/net7.0/task19_Palidrom.dll
+/home/lena/source/C-Learn/task19_Palidrom/obj/Debug/net7.0/refint/task19_Palidrom.dll
+/home/lena/source/C-Learn/task19_Palidrom/obj/Debug/net7.0/task19_Palidrom.pdb
+/home/lena/source/C-Learn/task19_Palidrom/obj/Debug/net7.0/task19_Palidrom.genruntimeconfig.cache
+/home/lena/source/C-Learn/task19_Palidrom/obj/Debug/net7.0/ref/task19_Palidrom.dll
