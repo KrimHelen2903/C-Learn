@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/lena/source/C-Learn/task24/task24.csproj": {}
+    "/home/lena/source/C-Learn/task26_digitsNum/task26_digitsNum.csproj": {}
   },
   "projects": {
-    "/home/lena/source/C-Learn/task24/task24.csproj": {
+    "/home/lena/source/C-Learn/task26_digitsNum/task26_digitsNum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lena/source/C-Learn/task24/task24.csproj",
-        "projectName": "task24",
-        "projectPath": "/home/lena/source/C-Learn/task24/task24.csproj",
+        "projectUniqueName": "/home/lena/source/C-Learn/task26_digitsNum/task26_digitsNum.csproj",
+        "projectName": "task26_digitsNum",
+        "projectPath": "/home/lena/source/C-Learn/task26_digitsNum/task26_digitsNum.csproj",
         "packagesPath": "/home/lena/.nuget/packages/",
-        "outputPath": "/home/lena/source/C-Learn/task24/obj/",
+        "outputPath": "/home/lena/source/C-Learn/task26_digitsNum/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/lena/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,15 @@
+/home/lena/source/C-Learn/task26_digitsNum/obj/Debug/net7.0/task26_digitsNum.csproj.AssemblyReference.cache
+/home/lena/source/C-Learn/task26_digitsNum/obj/Debug/net7.0/task26_digitsNum.GeneratedMSBuildEditorConfig.editorconfig
+/home/lena/source/C-Learn/task26_digitsNum/obj/Debug/net7.0/task26_digitsNum.AssemblyInfoInputs.cache
+/home/lena/source/C-Learn/task26_digitsNum/obj/Debug/net7.0/task26_digitsNum.AssemblyInfo.cs
+/home/lena/source/C-Learn/task26_digitsNum/obj/Debug/net7.0/task26_digitsNum.csproj.CoreCompileInputs.cache
+/home/lena/source/C-Learn/task26_digitsNum/bin/Debug/net7.0/task26_digitsNum
+/home/lena/source/C-Learn/task26_digitsNum/bin/Debug/net7.0/task26_digitsNum.deps.json
+/home/lena/source/C-Learn/task26_digitsNum/bin/Debug/net7.0/task26_digitsNum.runtimeconfig.json
+/home/lena/source/C-Learn/task26_digitsNum/bin/Debug/net7.0/task26_digitsNum.dll
+/home/lena/source/C-Learn/task26_digitsNum/bin/Debug/net7.0/task26_digitsNum.pdb
+/home/lena/source/C-Learn/task26_digitsNum/obj/Debug/net7.0/task26_digitsNum.dll
+/home/lena/source/C-Learn/task26_digitsNum/obj/Debug/net7.0/refint/task26_digitsNum.dll
+/home/lena/source/C-Learn/task26_digitsNum/obj/Debug/net7.0/task26_digitsNum.pdb
+/home/lena/source/C-Learn/task26_digitsNum/obj/Debug/net7.0/task26_digitsNum.genruntimeconfig.cache
+/home/lena/source/C-Learn/task26_digitsNum/obj/Debug/net7.0/ref/task26_digitsNum.dll
