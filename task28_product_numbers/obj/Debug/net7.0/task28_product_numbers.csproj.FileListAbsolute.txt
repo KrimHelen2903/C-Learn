@@ -1,0 +1,15 @@
+/home/lena/source/C-Learn/task28_product_numbers/bin/Debug/net7.0/task28_product_numbers
+/home/lena/source/C-Learn/task28_product_numbers/bin/Debug/net7.0/task28_product_numbers.deps.json
+/home/lena/source/C-Learn/task28_product_numbers/bin/Debug/net7.0/task28_product_numbers.runtimeconfig.json
+/home/lena/source/C-Learn/task28_product_numbers/bin/Debug/net7.0/task28_product_numbers.dll
+/home/lena/source/C-Learn/task28_product_numbers/bin/Debug/net7.0/task28_product_numbers.pdb
+/home/lena/source/C-Learn/task28_product_numbers/obj/Debug/net7.0/task28_product_numbers.csproj.AssemblyReference.cache
+/home/lena/source/C-Learn/task28_product_numbers/obj/Debug/net7.0/task28_product_numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/lena/source/C-Learn/task28_product_numbers/obj/Debug/net7.0/task28_product_numbers.AssemblyInfoInputs.cache
+/home/lena/source/C-Learn/task28_product_numbers/obj/Debug/net7.0/task28_product_numbers.AssemblyInfo.cs
+/home/lena/source/C-Learn/task28_product_numbers/obj/Debug/net7.0/task28_product_numbers.csproj.CoreCompileInputs.cache
+/home/lena/source/C-Learn/task28_product_numbers/obj/Debug/net7.0/task28_product_numbers.dll
+/home/lena/source/C-Learn/task28_product_numbers/obj/Debug/net7.0/refint/task28_product_numbers.dll
+/home/lena/source/C-Learn/task28_product_numbers/obj/Debug/net7.0/task28_product_numbers.pdb
+/home/lena/source/C-Learn/task28_product_numbers/obj/Debug/net7.0/task28_product_numbers.genruntimeconfig.cache
+/home/lena/source/C-Learn/task28_product_numbers/obj/Debug/net7.0/ref/task28_product_numbers.dll

@@ -1,0 +1,15 @@
+/home/lena/source/C-Learn/task30_/obj/Debug/net7.0/task30_.csproj.AssemblyReference.cache
+/home/lena/source/C-Learn/task30_/obj/Debug/net7.0/task30_.GeneratedMSBuildEditorConfig.editorconfig
+/home/lena/source/C-Learn/task30_/obj/Debug/net7.0/task30_.AssemblyInfoInputs.cache
+/home/lena/source/C-Learn/task30_/obj/Debug/net7.0/task30_.AssemblyInfo.cs
+/home/lena/source/C-Learn/task30_/obj/Debug/net7.0/task30_.csproj.CoreCompileInputs.cache
+/home/lena/source/C-Learn/task30_/bin/Debug/net7.0/task30_
+/home/lena/source/C-Learn/task30_/bin/Debug/net7.0/task30_.deps.json
+/home/lena/source/C-Learn/task30_/bin/Debug/net7.0/task30_.runtimeconfig.json
+/home/lena/source/C-Learn/task30_/bin/Debug/net7.0/task30_.dll
+/home/lena/source/C-Learn/task30_/bin/Debug/net7.0/task30_.pdb
+/home/lena/source/C-Learn/task30_/obj/Debug/net7.0/task30_.dll
+/home/lena/source/C-Learn/task30_/obj/Debug/net7.0/refint/task30_.dll
+/home/lena/source/C-Learn/task30_/obj/Debug/net7.0/task30_.pdb
+/home/lena/source/C-Learn/task30_/obj/Debug/net7.0/task30_.genruntimeconfig.cache
+/home/lena/source/C-Learn/task30_/obj/Debug/net7.0/ref/task30_.dll

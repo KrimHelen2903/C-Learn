@@ -15,7 +15,7 @@ for(int i = number; i > 0; i %= 10)
 int Result(int number)
 {
     int count = 0;
-    for (int i = number; i > 0; i %= 10)
+    for (int i = number; i > 0; i /= 10)
     {
         count = count + 1;
     }

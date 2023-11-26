@@ -1,0 +1,5 @@
+/home/lena/source/C-Learn/task21koor_dvuhTochek/obj/Debug/net7.0/task21koor_dvuhTochek.csproj.AssemblyReference.cache
+/home/lena/source/C-Learn/task21koor_dvuhTochek/obj/Debug/net7.0/task21koor_dvuhTochek.GeneratedMSBuildEditorConfig.editorconfig
+/home/lena/source/C-Learn/task21koor_dvuhTochek/obj/Debug/net7.0/task21koor_dvuhTochek.AssemblyInfoInputs.cache
+/home/lena/source/C-Learn/task21koor_dvuhTochek/obj/Debug/net7.0/task21koor_dvuhTochek.AssemblyInfo.cs
+/home/lena/source/C-Learn/task21koor_dvuhTochek/obj/Debug/net7.0/task21koor_dvuhTochek.csproj.CoreCompileInputs.cache

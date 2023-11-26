@@ -12,9 +12,9 @@ int n2 = n / 1000 % 10;
 int n4 = n /10 % 10;
 int n5 = n % 10;
 
-if( n >= 10000 & n <= 99999)
+if( n >= 10000 && n <= 99999)
 {
-    if(n1 == n5 & n2 == n4)
+    if(n1 == n5 && n2 == n4)
     {
         System.Console.WriteLine("True");
     }

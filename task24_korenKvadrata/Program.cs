@@ -17,7 +17,7 @@ System.Console.WriteLine(sum);*/
 System.Console.WriteLine("Enter number: ");
 int userA = Convert.ToInt32(Console.ReadLine());
 
-int Summer(int a);
+int Summer(int a)
 {
     int summ = 0;
 
