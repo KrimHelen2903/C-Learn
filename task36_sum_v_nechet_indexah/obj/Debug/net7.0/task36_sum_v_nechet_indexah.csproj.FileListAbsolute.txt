@@ -1,0 +1,15 @@
+/home/lena/source/C-Learn/task36_sum_v_nechet_indexah/obj/Debug/net7.0/task36_sum_v_nechet_indexah.csproj.AssemblyReference.cache
+/home/lena/source/C-Learn/task36_sum_v_nechet_indexah/obj/Debug/net7.0/task36_sum_v_nechet_indexah.GeneratedMSBuildEditorConfig.editorconfig
+/home/lena/source/C-Learn/task36_sum_v_nechet_indexah/obj/Debug/net7.0/task36_sum_v_nechet_indexah.AssemblyInfoInputs.cache
+/home/lena/source/C-Learn/task36_sum_v_nechet_indexah/obj/Debug/net7.0/task36_sum_v_nechet_indexah.AssemblyInfo.cs
+/home/lena/source/C-Learn/task36_sum_v_nechet_indexah/obj/Debug/net7.0/task36_sum_v_nechet_indexah.csproj.CoreCompileInputs.cache
+/home/lena/source/C-Learn/task36_sum_v_nechet_indexah/bin/Debug/net7.0/task36_sum_v_nechet_indexah
+/home/lena/source/C-Learn/task36_sum_v_nechet_indexah/bin/Debug/net7.0/task36_sum_v_nechet_indexah.deps.json
+/home/lena/source/C-Learn/task36_sum_v_nechet_indexah/bin/Debug/net7.0/task36_sum_v_nechet_indexah.runtimeconfig.json
+/home/lena/source/C-Learn/task36_sum_v_nechet_indexah/bin/Debug/net7.0/task36_sum_v_nechet_indexah.dll
+/home/lena/source/C-Learn/task36_sum_v_nechet_indexah/bin/Debug/net7.0/task36_sum_v_nechet_indexah.pdb
+/home/lena/source/C-Learn/task36_sum_v_nechet_indexah/obj/Debug/net7.0/task36_sum_v_nechet_indexah.dll
+/home/lena/source/C-Learn/task36_sum_v_nechet_indexah/obj/Debug/net7.0/refint/task36_sum_v_nechet_indexah.dll
+/home/lena/source/C-Learn/task36_sum_v_nechet_indexah/obj/Debug/net7.0/task36_sum_v_nechet_indexah.pdb
+/home/lena/source/C-Learn/task36_sum_v_nechet_indexah/obj/Debug/net7.0/task36_sum_v_nechet_indexah.genruntimeconfig.cache
+/home/lena/source/C-Learn/task36_sum_v_nechet_indexah/obj/Debug/net7.0/ref/task36_sum_v_nechet_indexah.dll

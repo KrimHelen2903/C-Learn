@@ -1,0 +1,15 @@
+/home/lena/source/C-Learn/task40_teorema_treugol/bin/Debug/net7.0/task40
+/home/lena/source/C-Learn/task40_teorema_treugol/bin/Debug/net7.0/task40.deps.json
+/home/lena/source/C-Learn/task40_teorema_treugol/bin/Debug/net7.0/task40.runtimeconfig.json
+/home/lena/source/C-Learn/task40_teorema_treugol/bin/Debug/net7.0/task40.dll
+/home/lena/source/C-Learn/task40_teorema_treugol/bin/Debug/net7.0/task40.pdb
+/home/lena/source/C-Learn/task40_teorema_treugol/obj/Debug/net7.0/task40.csproj.AssemblyReference.cache
+/home/lena/source/C-Learn/task40_teorema_treugol/obj/Debug/net7.0/task40.GeneratedMSBuildEditorConfig.editorconfig
+/home/lena/source/C-Learn/task40_teorema_treugol/obj/Debug/net7.0/task40.AssemblyInfoInputs.cache
+/home/lena/source/C-Learn/task40_teorema_treugol/obj/Debug/net7.0/task40.AssemblyInfo.cs
+/home/lena/source/C-Learn/task40_teorema_treugol/obj/Debug/net7.0/task40.csproj.CoreCompileInputs.cache
+/home/lena/source/C-Learn/task40_teorema_treugol/obj/Debug/net7.0/task40.dll
+/home/lena/source/C-Learn/task40_teorema_treugol/obj/Debug/net7.0/refint/task40.dll
+/home/lena/source/C-Learn/task40_teorema_treugol/obj/Debug/net7.0/task40.pdb
+/home/lena/source/C-Learn/task40_teorema_treugol/obj/Debug/net7.0/task40.genruntimeconfig.cache
+/home/lena/source/C-Learn/task40_teorema_treugol/obj/Debug/net7.0/ref/task40.dll

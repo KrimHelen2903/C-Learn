@@ -1,0 +1,15 @@
+/home/lena/source/C-Learn/task39_perevorot_massiva/obj/Debug/net7.0/task39_perevorot_massiva.csproj.AssemblyReference.cache
+/home/lena/source/C-Learn/task39_perevorot_massiva/obj/Debug/net7.0/task39_perevorot_massiva.GeneratedMSBuildEditorConfig.editorconfig
+/home/lena/source/C-Learn/task39_perevorot_massiva/obj/Debug/net7.0/task39_perevorot_massiva.AssemblyInfoInputs.cache
+/home/lena/source/C-Learn/task39_perevorot_massiva/obj/Debug/net7.0/task39_perevorot_massiva.AssemblyInfo.cs
+/home/lena/source/C-Learn/task39_perevorot_massiva/obj/Debug/net7.0/task39_perevorot_massiva.csproj.CoreCompileInputs.cache
+/home/lena/source/C-Learn/task39_perevorot_massiva/bin/Debug/net7.0/task39_perevorot_massiva
+/home/lena/source/C-Learn/task39_perevorot_massiva/bin/Debug/net7.0/task39_perevorot_massiva.deps.json
+/home/lena/source/C-Learn/task39_perevorot_massiva/bin/Debug/net7.0/task39_perevorot_massiva.runtimeconfig.json
+/home/lena/source/C-Learn/task39_perevorot_massiva/bin/Debug/net7.0/task39_perevorot_massiva.dll
+/home/lena/source/C-Learn/task39_perevorot_massiva/bin/Debug/net7.0/task39_perevorot_massiva.pdb
+/home/lena/source/C-Learn/task39_perevorot_massiva/obj/Debug/net7.0/task39_perevorot_massiva.dll
+/home/lena/source/C-Learn/task39_perevorot_massiva/obj/Debug/net7.0/refint/task39_perevorot_massiva.dll
+/home/lena/source/C-Learn/task39_perevorot_massiva/obj/Debug/net7.0/task39_perevorot_massiva.pdb
+/home/lena/source/C-Learn/task39_perevorot_massiva/obj/Debug/net7.0/task39_perevorot_massiva.genruntimeconfig.cache
+/home/lena/source/C-Learn/task39_perevorot_massiva/obj/Debug/net7.0/ref/task39_perevorot_massiva.dll

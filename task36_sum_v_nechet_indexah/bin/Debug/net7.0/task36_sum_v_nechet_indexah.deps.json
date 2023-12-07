@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "task36_sum_v_nechet_indexah/1.0.0": {
+        "runtime": {
+          "task36_sum_v_nechet_indexah.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task36_sum_v_nechet_indexah/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

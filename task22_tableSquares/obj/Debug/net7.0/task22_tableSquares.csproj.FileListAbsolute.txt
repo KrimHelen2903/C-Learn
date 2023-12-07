@@ -1,0 +1,15 @@
+/home/lena/source/C-Learn/task22_tableSquares/obj/Debug/net7.0/task22_tableSquares.csproj.AssemblyReference.cache
+/home/lena/source/C-Learn/task22_tableSquares/obj/Debug/net7.0/task22_tableSquares.GeneratedMSBuildEditorConfig.editorconfig
+/home/lena/source/C-Learn/task22_tableSquares/obj/Debug/net7.0/task22_tableSquares.AssemblyInfoInputs.cache
+/home/lena/source/C-Learn/task22_tableSquares/obj/Debug/net7.0/task22_tableSquares.AssemblyInfo.cs
+/home/lena/source/C-Learn/task22_tableSquares/obj/Debug/net7.0/task22_tableSquares.csproj.CoreCompileInputs.cache
+/home/lena/source/C-Learn/task22_tableSquares/bin/Debug/net7.0/task22_tableSquares
+/home/lena/source/C-Learn/task22_tableSquares/bin/Debug/net7.0/task22_tableSquares.deps.json
+/home/lena/source/C-Learn/task22_tableSquares/bin/Debug/net7.0/task22_tableSquares.runtimeconfig.json
+/home/lena/source/C-Learn/task22_tableSquares/bin/Debug/net7.0/task22_tableSquares.dll
+/home/lena/source/C-Learn/task22_tableSquares/bin/Debug/net7.0/task22_tableSquares.pdb
+/home/lena/source/C-Learn/task22_tableSquares/obj/Debug/net7.0/task22_tableSquares.dll
+/home/lena/source/C-Learn/task22_tableSquares/obj/Debug/net7.0/refint/task22_tableSquares.dll
+/home/lena/source/C-Learn/task22_tableSquares/obj/Debug/net7.0/task22_tableSquares.pdb
+/home/lena/source/C-Learn/task22_tableSquares/obj/Debug/net7.0/task22_tableSquares.genruntimeconfig.cache
+/home/lena/source/C-Learn/task22_tableSquares/obj/Debug/net7.0/ref/task22_tableSquares.dll

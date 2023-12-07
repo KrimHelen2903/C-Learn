@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "task22_tableSquares/1.0.0": {
+        "runtime": {
+          "task22_tableSquares.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task22_tableSquares/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

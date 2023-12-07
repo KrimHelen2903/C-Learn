@@ -1,0 +1,5 @@
+/home/lena/source/C-Learn/task34_kol-vo_chet_massiv/obj/Debug/net7.0/task34_kol-vo_chet_massiv.csproj.AssemblyReference.cache
+/home/lena/source/C-Learn/task34_kol-vo_chet_massiv/obj/Debug/net7.0/task34_kol-vo_chet_massiv.GeneratedMSBuildEditorConfig.editorconfig
+/home/lena/source/C-Learn/task34_kol-vo_chet_massiv/obj/Debug/net7.0/task34_kol-vo_chet_massiv.AssemblyInfoInputs.cache
+/home/lena/source/C-Learn/task34_kol-vo_chet_massiv/obj/Debug/net7.0/task34_kol-vo_chet_massiv.AssemblyInfo.cs
+/home/lena/source/C-Learn/task34_kol-vo_chet_massiv/obj/Debug/net7.0/task34_kol-vo_chet_massiv.csproj.CoreCompileInputs.cache

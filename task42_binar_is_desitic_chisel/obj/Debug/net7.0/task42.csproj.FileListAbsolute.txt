@@ -1,0 +1,15 @@
+/home/lena/source/C-Learn/task42_binar_is_desitic_chisel/obj/Debug/net7.0/task42.csproj.AssemblyReference.cache
+/home/lena/source/C-Learn/task42_binar_is_desitic_chisel/obj/Debug/net7.0/task42.GeneratedMSBuildEditorConfig.editorconfig
+/home/lena/source/C-Learn/task42_binar_is_desitic_chisel/obj/Debug/net7.0/task42.AssemblyInfoInputs.cache
+/home/lena/source/C-Learn/task42_binar_is_desitic_chisel/obj/Debug/net7.0/task42.AssemblyInfo.cs
+/home/lena/source/C-Learn/task42_binar_is_desitic_chisel/obj/Debug/net7.0/task42.csproj.CoreCompileInputs.cache
+/home/lena/source/C-Learn/task42_binar_is_desitic_chisel/bin/Debug/net7.0/task42
+/home/lena/source/C-Learn/task42_binar_is_desitic_chisel/bin/Debug/net7.0/task42.deps.json
+/home/lena/source/C-Learn/task42_binar_is_desitic_chisel/bin/Debug/net7.0/task42.runtimeconfig.json
+/home/lena/source/C-Learn/task42_binar_is_desitic_chisel/bin/Debug/net7.0/task42.dll
+/home/lena/source/C-Learn/task42_binar_is_desitic_chisel/bin/Debug/net7.0/task42.pdb
+/home/lena/source/C-Learn/task42_binar_is_desitic_chisel/obj/Debug/net7.0/task42.dll
+/home/lena/source/C-Learn/task42_binar_is_desitic_chisel/obj/Debug/net7.0/refint/task42.dll
+/home/lena/source/C-Learn/task42_binar_is_desitic_chisel/obj/Debug/net7.0/task42.pdb
+/home/lena/source/C-Learn/task42_binar_is_desitic_chisel/obj/Debug/net7.0/task42.genruntimeconfig.cache
+/home/lena/source/C-Learn/task42_binar_is_desitic_chisel/obj/Debug/net7.0/ref/task42.dll

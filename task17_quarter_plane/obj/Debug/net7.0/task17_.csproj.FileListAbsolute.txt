@@ -1,0 +1,15 @@
+/home/lena/source/C-Learn/task17_quarter_plane/obj/Debug/net7.0/task17_.csproj.AssemblyReference.cache
+/home/lena/source/C-Learn/task17_quarter_plane/obj/Debug/net7.0/task17_.GeneratedMSBuildEditorConfig.editorconfig
+/home/lena/source/C-Learn/task17_quarter_plane/obj/Debug/net7.0/task17_.AssemblyInfoInputs.cache
+/home/lena/source/C-Learn/task17_quarter_plane/obj/Debug/net7.0/task17_.AssemblyInfo.cs
+/home/lena/source/C-Learn/task17_quarter_plane/obj/Debug/net7.0/task17_.csproj.CoreCompileInputs.cache
+/home/lena/source/C-Learn/task17_quarter_plane/bin/Debug/net7.0/task17_
+/home/lena/source/C-Learn/task17_quarter_plane/bin/Debug/net7.0/task17_.deps.json
+/home/lena/source/C-Learn/task17_quarter_plane/bin/Debug/net7.0/task17_.runtimeconfig.json
+/home/lena/source/C-Learn/task17_quarter_plane/bin/Debug/net7.0/task17_.dll
+/home/lena/source/C-Learn/task17_quarter_plane/bin/Debug/net7.0/task17_.pdb
+/home/lena/source/C-Learn/task17_quarter_plane/obj/Debug/net7.0/task17_.dll
+/home/lena/source/C-Learn/task17_quarter_plane/obj/Debug/net7.0/refint/task17_.dll
+/home/lena/source/C-Learn/task17_quarter_plane/obj/Debug/net7.0/task17_.pdb
+/home/lena/source/C-Learn/task17_quarter_plane/obj/Debug/net7.0/task17_.genruntimeconfig.cache
+/home/lena/source/C-Learn/task17_quarter_plane/obj/Debug/net7.0/ref/task17_.dll

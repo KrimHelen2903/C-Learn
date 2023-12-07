@@ -1,0 +1,15 @@
+/home/lena/source/C-Learn/task29_massiv8el/obj/Debug/net7.0/task29_massiv8el.csproj.AssemblyReference.cache
+/home/lena/source/C-Learn/task29_massiv8el/obj/Debug/net7.0/task29_massiv8el.GeneratedMSBuildEditorConfig.editorconfig
+/home/lena/source/C-Learn/task29_massiv8el/obj/Debug/net7.0/task29_massiv8el.AssemblyInfoInputs.cache
+/home/lena/source/C-Learn/task29_massiv8el/obj/Debug/net7.0/task29_massiv8el.AssemblyInfo.cs
+/home/lena/source/C-Learn/task29_massiv8el/obj/Debug/net7.0/task29_massiv8el.csproj.CoreCompileInputs.cache
+/home/lena/source/C-Learn/task29_massiv8el/bin/Debug/net7.0/task29_massiv8el
+/home/lena/source/C-Learn/task29_massiv8el/bin/Debug/net7.0/task29_massiv8el.deps.json
+/home/lena/source/C-Learn/task29_massiv8el/bin/Debug/net7.0/task29_massiv8el.runtimeconfig.json
+/home/lena/source/C-Learn/task29_massiv8el/bin/Debug/net7.0/task29_massiv8el.dll
+/home/lena/source/C-Learn/task29_massiv8el/bin/Debug/net7.0/task29_massiv8el.pdb
+/home/lena/source/C-Learn/task29_massiv8el/obj/Debug/net7.0/task29_massiv8el.dll
+/home/lena/source/C-Learn/task29_massiv8el/obj/Debug/net7.0/refint/task29_massiv8el.dll
+/home/lena/source/C-Learn/task29_massiv8el/obj/Debug/net7.0/task29_massiv8el.pdb
+/home/lena/source/C-Learn/task29_massiv8el/obj/Debug/net7.0/task29_massiv8el.genruntimeconfig.cache
+/home/lena/source/C-Learn/task29_massiv8el/obj/Debug/net7.0/ref/task29_massiv8el.dll

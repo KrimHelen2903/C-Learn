@@ -1,0 +1,15 @@
+/home/lena/source/C-Learn/task20_2Dspace/obj/Debug/net7.0/task20_2Dspace.csproj.AssemblyReference.cache
+/home/lena/source/C-Learn/task20_2Dspace/obj/Debug/net7.0/task20_2Dspace.GeneratedMSBuildEditorConfig.editorconfig
+/home/lena/source/C-Learn/task20_2Dspace/obj/Debug/net7.0/task20_2Dspace.AssemblyInfoInputs.cache
+/home/lena/source/C-Learn/task20_2Dspace/obj/Debug/net7.0/task20_2Dspace.AssemblyInfo.cs
+/home/lena/source/C-Learn/task20_2Dspace/obj/Debug/net7.0/task20_2Dspace.csproj.CoreCompileInputs.cache
+/home/lena/source/C-Learn/task20_2Dspace/bin/Debug/net7.0/task20_2Dspace
+/home/lena/source/C-Learn/task20_2Dspace/bin/Debug/net7.0/task20_2Dspace.deps.json
+/home/lena/source/C-Learn/task20_2Dspace/bin/Debug/net7.0/task20_2Dspace.runtimeconfig.json
+/home/lena/source/C-Learn/task20_2Dspace/bin/Debug/net7.0/task20_2Dspace.dll
+/home/lena/source/C-Learn/task20_2Dspace/bin/Debug/net7.0/task20_2Dspace.pdb
+/home/lena/source/C-Learn/task20_2Dspace/obj/Debug/net7.0/task20_2Dspace.dll
+/home/lena/source/C-Learn/task20_2Dspace/obj/Debug/net7.0/refint/task20_2Dspace.dll
+/home/lena/source/C-Learn/task20_2Dspace/obj/Debug/net7.0/task20_2Dspace.pdb
+/home/lena/source/C-Learn/task20_2Dspace/obj/Debug/net7.0/task20_2Dspace.genruntimeconfig.cache
+/home/lena/source/C-Learn/task20_2Dspace/obj/Debug/net7.0/ref/task20_2Dspace.dll
